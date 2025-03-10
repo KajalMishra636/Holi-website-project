@@ -1,8 +1,8 @@
-🎉 Holi Celebration Website 🌈
+🎉 <b>Holi Celebration Website<b> 🌈
 Project Name: Holi Celebration Website
 ![image](https://github.com/user-attachments/assets/63e9179f-eb08-457d-981e-b6319f625202)
 
-In vrindavan Holi 
+In Vrindavan Holi 
 
 ![image](https://github.com/user-attachments/assets/163b1137-8df9-4eb8-bc68-27db90390db3)
 
