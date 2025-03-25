@@ -10,9 +10,6 @@ In Vrindavan Holi
 Welcome to the Holi Celebration Website, your go-to place to experience the vibrant, colorful spirit of the Holi festival—virtually! 🌈✨
 
 This website brings the excitement, colors, and sounds of Holi to life with interactive features, engaging content, and a ton of fun! Whether you're celebrating at home or exploring the festival from afar, this website is designed to let you dive into the world of Holi like never before. 💥🎨
-
-![image](https://github.com/user-attachments/assets/0f6ddacf-1d1c-4eda-b6b5-c9aa42f0718d)
-
 🌟 Key Features
 🎨 Color Splash Animations: Click to throw colors on the screen and celebrate the vibrant energy of Holi. Watch as the colors splash all over! 💥
 🔊 Holi Sound Effects: Immerse yourself in the sounds of the festival with joyful music and lively sound effects. 🎶
@@ -20,10 +17,6 @@ This website brings the excitement, colors, and sounds of Holi to life with inte
 📸 Holi Gallery: Explore beautiful photos and videos from Holi celebrations around the world. 🌍
 📍 Event Locator: Find Holi events near you and never miss the party! (Integration with Event APIs) 📅
 📱 Shareable Digital Cards: Create fun and colorful Holi cards to share with your friends and family on social media! 💌
-
-
-![image](https://github.com/user-attachments/assets/f6de5764-4ec8-44f1-be16-0877b55dfdd5)
-
 
 🔧 Technologies Used
 Frontend:
